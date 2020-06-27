@@ -2,98 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e702018-e284-40aa-bf26-c2d8c0e43b31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_10_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/dao/TarefaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/dao/UsuarioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Tarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/rest/LoginRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/rest/TarefaRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/service/TarefaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/TodoListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/config/DevConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/service/DBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/dao/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/dao/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/fernandogontijo/model/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TODOLIST@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TODOLIST@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TODOLIST@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="TODOLIST: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TODOLIST@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="TODOLIST: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="TB.TAREFA: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,6 +93,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -144,6 +119,26 @@
       <command value="mvn clean" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TodoListApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TodoList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fernandogontijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.fernandogontijo.TodoListApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TodoListApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,7 +151,8 @@
       <updated>1593135087277</updated>
       <workItem from="1593135094338" duration="1200000" />
       <workItem from="1593136519446" duration="3132000" />
-      <workItem from="1593140494763" duration="23000" />
+      <workItem from="1593140494763" duration="135000" />
+      <workItem from="1593222340848" duration="7595000" />
     </task>
     <servers />
   </component>
@@ -164,38 +160,84 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="43" key="#Assign_Data_Sources" timestamp="1593231565255">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="240" y="43" key="#Assign_Data_Sources/0.23.1280.715@0.23.1280.715" timestamp="1593231565255" />
     <state x="240" y="43" key="#Notifications" timestamp="1593140515410">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="240" y="43" key="#Notifications/0.23.1280.710@0.23.1280.710" timestamp="1593140515410" />
-    <state x="240" y="43" key="#Project_Structure" timestamp="1593136071272">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state x="240" y="43" key="#Project_Structure" timestamp="1593227233057">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="240" y="43" key="#Project_Structure/0.23.1280.710@0.23.1280.710" timestamp="1593136071272" />
-    <state x="453" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1593136196983">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state x="240" y="43" key="#Project_Structure/0.23.1280.713@0.23.1280.713" timestamp="1593227233057" />
+    <state x="240" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593225072432">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="240" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713@0.23.1280.713" timestamp="1593225072432" />
+    <state x="453" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1593225743668">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="453" y="69" key="#com.intellij.ide.util.MemberChooser/0.23.1280.710@0.23.1280.710" timestamp="1593136196982" />
+    <state x="453" y="69" key="#com.intellij.ide.util.MemberChooser/0.23.1280.713@0.23.1280.713" timestamp="1593225743668" />
     <state x="269" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593135794554">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="269" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.710@0.23.1280.710" timestamp="1593135794554" />
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1593140460843">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1593231786053">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1593140460843" />
-    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1593140460842">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1593231786053" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1593231644777" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1593231182130" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1593231786052">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1593140460842" />
-    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1593140460842">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1593231786052" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1593231644776" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1593231182129" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1593231786051">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1593140460842" />
-    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1593140460843">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1593231786051" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1593231644776" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1593231182128" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1593231786052">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1593140460843" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1593231786052" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1593231644777" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1593231182129" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1593231786056">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.1280.713@0.23.1280.713" timestamp="1593231786056" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.1280.715@0.23.1280.715" timestamp="1593231644780" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.1280.716@0.23.1280.716" timestamp="1593231182132" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1593231786054">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.1280.713@0.23.1280.713" timestamp="1593231786054" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.1280.715@0.23.1280.715" timestamp="1593231644779" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.1280.716@0.23.1280.716" timestamp="1593231182131" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1593231786054">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.1280.713@0.23.1280.713" timestamp="1593231786054" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.1280.715@0.23.1280.715" timestamp="1593231644778" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.1280.716@0.23.1280.716" timestamp="1593231182130" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1593231786055">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1593231786055" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1593231644779" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.1280.716@0.23.1280.716" timestamp="1593231182131" />
     <state x="178" y="40" key="Maven.ArtifactSearchDialog" timestamp="1593138362180">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
@@ -204,13 +246,18 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="149" y="23" width="982" height="710" key="SettingsEditor/0.23.1280.710@0.23.1280.710" timestamp="1593136477389" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1593231505440">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1280.715@0.23.1280.715" timestamp="1593231505440" />
     <state x="305" y="169" width="670" height="675" key="run.anything.popup" timestamp="1593138484441">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="305" y="169" width="670" height="675" key="run.anything.popup/0.23.1280.710@0.23.1280.710" timestamp="1593138484441" />
-    <state x="305" y="124" key="search.everywhere.popup" timestamp="1593135101382">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="305" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1593230552708">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="305" y="124" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1593135101382" />
+    <state x="305" y="134" width="670" height="676" key="search.everywhere.popup/0.23.1280.713@0.23.1280.713" timestamp="1593230552708" />
   </component>
 </project>
