@@ -7,7 +7,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
+import java.io.Serializable;
 import java.util.Collection;
 
 
@@ -16,22 +16,24 @@ import java.util.Collection;
 @Data
 @Entity
 @Table(name = "TB.USUARIO")
-public class Usuario implements UserDetails {
+public class Usuario implements UserDetails, Serializable {
+
+    private static final long serialVersionUID = 1L;
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull
+    @Column(nullable = false)
     private String nome;
 
-    @NotNull
+    @Column(nullable = false, unique = true)
     private String login;
 
-    @NotNull
+    @Column(nullable = false)
     private String senha;
 
-    @NotNull
+    @Column(nullable = false, unique = true)
     private String email;
 
     @Override

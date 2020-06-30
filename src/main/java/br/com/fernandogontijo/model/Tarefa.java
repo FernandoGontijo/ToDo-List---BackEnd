@@ -22,14 +22,18 @@ public class Tarefa implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull
+    @Column(nullable = false)
     private String nome;
 
-    @NotNull
+    @Column(nullable = false)
     private String descricao;
     private Date data;
     private String hora;
 
     @ManyToOne
     private Usuario usuario;
+
+
+    public Tarefa(Long id, String nome, String descricao, Date data, String hora) {
+    }
 }
